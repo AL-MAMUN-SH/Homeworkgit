@@ -1,1 +1,14 @@
 This Is My First gIt USER MOHAMMAD ALMAMOON:
+
+GIT COMMAND...
+
+  git init
+  git status
+  git add < file name>
+  git commit -m "message"
+  git log
+
+  git config user.name " USER NAME"
+  git cocnfig user.email "USER EMAIL"
+
+   ---------END-------
